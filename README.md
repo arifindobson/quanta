@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Quanta Project
+
+Sebuah halaman untuk mengumpulkan dokumentasi dan progress dari pembuatan Quanta, Q adalah sebuah alat yang dapat mencampur nutrisi hidroponik secara otomatis. Saya membuat ini karena saya ingin memiliki kebun hidroponik dengan tanaman yang sehat namun mengurangi kerumitan pencampuran nutrisi. 
+
+Proyek ini Open-Source sehingga saya akan memberikan akses dokumen maupun desain fisik yang saya gunakan. Agar bisa direplikasi oleh teman-teman yang tertarik terhadap pertanian.
 
 You can use the [editor on GitHub](https://github.com/widobsono/quanta/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
