@@ -13,6 +13,6 @@ Silahkan kontak saya melalui media sosial, ingin bertanya maupun memberikan masu
 2. [Facebook](https://facebook.com/arifindobson)
 3. [LinkedIn](https://www.linkedin.com/in/arifindobson/)
 
-Made with ♥ from Indonesia
+Made with ♥  from Indonesia
 
 
